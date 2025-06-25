@@ -1,0 +1,10 @@
+/* linguist-language=CSS */
+/* Music Player Styles */
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+}
+.player {
+  max-width: 500px;
+  margin: 0 auto;
+}
